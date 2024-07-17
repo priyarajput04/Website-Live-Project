@@ -24,7 +24,7 @@ Get ready to experience a world of fun and excitement at **Amazing Fun Website**
 
 The "Website Live Project: Ethical Hacking" is a comprehensive, hands-on training initiative designed to provide participants with practical experience in the field of ethical hacking. This project is ideal for cybersecurity enthusiasts, IT professionals, and anyone interested in learning how to protect digital assets by understanding the techniques used by cybercriminals.
 
-### Key Features:
+#### Key Features:
 
 1. **Real-World Scenarios**: Participants will work on live websites and applications, encountering and solving real-world security challenges. This hands-on approach ensures that learners can apply theoretical knowledge to practical situations.
 
@@ -46,14 +46,14 @@ The "Website Live Project: Ethical Hacking" is a comprehensive, hands-on trainin
 
 7. **Certification**: Upon successful completion of the project, participants will receive a certificate, validating their skills and knowledge in ethical hacking and cybersecurity.
 
-### Objectives:
+#### Objectives:
 
 - **Skill Development**: Equip participants with the skills and knowledge necessary to identify and mitigate security threats.
 - **Real-World Application**: Provide a platform for applying theoretical concepts to real-world scenarios.
 - **Professional Growth**: Enhance career opportunities by providing hands-on experience and certification in ethical hacking.
 - **Security Awareness**: Promote a deeper understanding of cybersecurity threats and the importance of ethical hacking in protecting digital assets.
 
-### Target Audience:
+#### Target Audience:
 
 - IT Professionals
 - Cybersecurity Enthusiasts
